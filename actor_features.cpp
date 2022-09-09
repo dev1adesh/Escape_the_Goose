@@ -1,5 +1,4 @@
-#
-ifndef GOOSE_ESCAPE_ACTORS
+#ifndef GOOSE_ESCAPE_ACTORS
 #define GOOSE_ESCAPE_ACTORS
 #include <cmath>
 #include <BearLibTerminal.h>
