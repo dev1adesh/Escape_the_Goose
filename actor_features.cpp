@@ -114,5 +114,5 @@ class Actor
 		return round(sqrt(pow(((*this).location_x - otherActor.location_x), 2) +
 			pow(((*this).location_y - otherActor.location_y), 2)));
 	}
-};#
-endif
+};
+#endif
